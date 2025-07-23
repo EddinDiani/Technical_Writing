@@ -72,11 +72,3 @@ We welcome contributions! Please read our [Contributor Guidelines](CONTRIBUTING.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-**Additional Tips:**
-- **Markdown Formatting:** Use Markdown for formatting your README.
-- **Keep it Simple:** Avoid overly complex language. The README should be easy to read for users of all skill levels.
-- **Visuals:** Use images or diagrams where appropriate, especially when demonstrating the usage or explaining complex concepts.
-- **Link to Resources:** If your project has more detailed documentation, link to it within the README for further reading.
-- **Update Regularly:** Keep your README up to date as your project evolves.
-
-This structure provides a good starting point for a README file. Tailor it to fit your project's specific needs and style. Remember, the goal is to make your project accessible and understandable for users and collaborators.
